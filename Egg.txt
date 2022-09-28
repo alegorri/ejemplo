@@ -1,0 +1,26 @@
+CODIGO DE GIT BASH
+
+git init - Inicia el repositorio local
+
+git remote add origin *insertar URL* - Conectar al repositorio remoto
+
+git pull origin remote -v - Se trae todo del repositorio remoto
+
+git status - Permite ver los cambios realizados
+
+git add . - Agregar "." para adherir todos los cambios al commit
+
+git commit -m "**Comentario del cambio**" - Preparar el commit para subir
+ 
+git push origin master - Subir el commit al remoto
+
+git remote - Añadir "add" o ver que version estamos vinculados "-v"
+
+git diff - Diferencias con el commit anterior
+
+git fetch - Nos da la informacion de las ramas
+
+git checkout - Para ir a la rama elegida
+
+git config - Para ver la configuracion general
+
